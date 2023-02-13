@@ -66,5 +66,5 @@ function displayResult(result){
 }
 
 
-console.log(randomN);
+// console.log(randomN);
 
