@@ -7,6 +7,7 @@ let imageSelect = document.createElement('img');
 let imgname = "image/" + ans[randomN] + ".png";
 resultImg.setAttribute('src', imgname);
 resultImg.classList.add('result');
+resultImg.classList.add('resultCompImg');
 imageSelect.classList.add('result');
 
 let link = document.createElement('a');
