@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    height: 100%;
+    color: #e66465;
+    font-family: 'Cutive Mono', monospace;
+    background: linear-gradient(to right,#1b1b1b 50%, #e6e6e9 50%);
+}
+img{
+    width: 70%;
+}
+
+h1{
+    margin: 1rem 0rem ;
+    font-size: 5rem;
+}
+h2{
+    font-size: 3rem;
+}
+.container{
+    display: flex;
+    width: 70%;
+    margin: 1.5rem auto;
+}
+.game{
+    display: flex;
+}
+
+.result{
+    width: 30%;
+    margin: 1rem 5rem;
+}
+
+.textLose{
+    color: red;
+}
+.textWin{
+    color: greenyellow;
+}
+.link{
+    color:brown;
+    font-family: 'Cutive Mono', monospace;
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
