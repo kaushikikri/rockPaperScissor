@@ -51,6 +51,7 @@ function check(img) {
 }
 
 function displayResult(result){
+    
     if(result==0){
         title.textContent = "Tie😊";
     }
